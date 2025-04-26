@@ -1,2 +1,4 @@
 discord.py
 instagrapi
+requests
+flask
